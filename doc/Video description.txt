@@ -1,0 +1,1 @@
+This video is used to show the license plate recognition process.Using the IMX 415 camera module get video stream.Using the Qualcomm® QCS610 SoC development board deal with video stream. Camera will been run and create a video stream after execute trafficUI.Later,recognition result and video will been show by LED displayer.

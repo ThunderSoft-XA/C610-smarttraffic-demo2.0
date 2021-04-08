@@ -1,0 +1,8 @@
+Easypr uses Apache V2 open source protocol, which is a business friendly protocol.
+You can use easypr for subsequent development and for business purposes.
+If easypr code is quoted in your product, please specify that the code is modified from easypr, thank you!
+
+
+General in the image directory of easypr_ Test and extreme_ All data in the test folder belong to GDTs (general data test set),
+All the data in that dataset doesn't follow Apache V2 protocol. Apache V2 only aims at the code and related models in easypr.
+Any data in GDTs follows gdsl (general data share license). Please read image/ GPSL.txt For more information.

@@ -1,0 +1,82 @@
+                                       General Data Share License
+
+                                      General data sharing protocol
+
+                                        Version 0.1, 2015-01-25
+When you start to use GDTs (general data test set) in easypr, that is image / general_ Test any data in the folder, you must comply with the terms of the following agreement.
+Easypr is only allowed to use the data in GDTs for non-commercial purposes. Any commercial act (selling or giving with the product, etc.) is a violation of this agreement.
+Easypr reserves all rights.
+
+This agreement is drafted with reference to the following two agreements: GPL v2.0 and ODL (open database license). Its core idea is basically the same as the two agreements, but there are many differences.
+
+This agreement is the same as GPL agreement in that both this Agreement and GPL agreement are "infectious" agreements.
+
+When you use, copy or transfer the data (or part of it) in GDTs, you must ensure that the protocol goes with the data.
+At the same time, if you modify or merge the data (or part of it) in GDTs with other data, you need to ensure that the new data set must also comply with the terms of this gdsl agreement.
+Different from GPL protocol, GPL protocol protects code and work based on code, while this protocol protects data.
+Note that the data protected in this agreement only protects the original image data, not the model trained by you through the image data,
+As well as the pictures only containing license plates that you extract from these picture data, you can operate these training models or license plate pictures according to the terms not agreed in this agreement.
+This agreement is the same as ODL agreement in that both this Agreement and ODL agreement are data protection agreements, and they also advocate the openness and sharing of data.
+But ODL protocol is mainly for structured data, and this protocol is mainly for image data.
+
+In addition, the ODL protocol emphasizes openness and does not restrict the commercial use of data. However, this agreement stipulates that the data can only be used for non-commercial purposes,
+
+It includes learning and research, but does not include commercial sex, such as sales and gifts with products.
+At present, the version of this agreement is 0.1 amendment. Any amendment or suggestion to this agreement can be made by contacting the organizer of this Agreement (easypr)_ dev@163.com )
+This agreement is mainly divided into three parts:
+    1. Copyright notice: the specification of GDTs data use is agreed.
+    2. Donation Description: describes how to donate GDTs data.
+    3. Disclaimer: disclaimer.
+
+If you only use easypr for development and research,you only need to read the first part. If you are willing to donate to easypr, you need to read part two.
+The third part states the exemption clauses of easypr in each part.
+
+1、 Copyright notice
+
+The data of GDTs in easypr is only used for learning and research. Although easypr follows the business friendly open source protocol, ache 2.0, that protocol only applies to your right to modify the code.
+These test data sets are not within the scope that you can modify and sell. Please ensure that these data sets are only used as the verification and reference for your easypr image test efficiency.
+These pictures are used to test the effect and indicators of easypr, only for the purpose of open source learning. Any commercial use of such data (such as selling data) or the use of such data as a bonus to the product is not allowed.
+In order to ensure that the test data used in easypr will not infringe any rights, every data uploaded on GDTs has the following characteristics:
+    1. Data with a long history and no timeliness (for example, data at least half a year ago) or data that has dealt with relevant copyright issues.
+    2. Before uploading, use the function provided by easypr to blur and cut the image to ensure that the image does not reveal any information about the location, time, location and so on.
+    3. Before uploading, use the anti face recognition tool provided by easypr to ensure that the image does not infringe anyone's privacy and portrait rights.
+
+If you find any pictures in easypr that infringe your rights, please contact us (easypr_dev@163.com)． Our staff will negotiate with you to modify or delete these pictures.
+
+2、 Donation notes
+
+The data in easypr comes from a wide range of sources, some of which come from online public channels, as well as donations from well meaning netizens and anonymous people. Through these data
+It effectively improves the recognition effect and accuracy of easypr, and contributes to the development of license plate recognition technology in China. You can also donate to easypr if you like.
+In the general open source and crowdsourcing software, the way of donation is generally money and other material property. But easypr's donation is slightly different. We don't accept the donation of property. On the contrary, we accept the donation of data.
+If you have a picture of the license plate, meet the following three conditions, and you are willing to donate it to easypr for research and development assistance, then you can contact us (easypr)_ dev@163.com ) ，
+Generally, we choose to donate 5-30 pictures. It is better that each picture has enough different characteristics. We are very happy to accept your support for our development and research.
+You can choose to donate publicly or anonymously, and you can choose to include the donated data into GDTs as a general test set or keep it private only as a picture of easypr core team training and testing.
+Donated image data does not need to be too much, we recommend that you do not donate more than 30 pictures. Thank you for your contribution to the development of open source software and data open source movement in China!
+In order to ensure that the test data used in easypr will not infringe any rights, every data uploaded on GDTs has the following characteristics:
+    1. Data with a long history and no timeliness (for example, data at least half a year ago) or data that has dealt with relevant copyright issues
+    2. Before uploading, use the function provided by easypr to blur and cut the image to ensure that the image does not reveal any information about the location, time, location and so on
+    3. Before uploading, use the anti face recognition tool provided by easypr to ensure that the image does not infringe anyone's privacy and portrait rights
+
+Only after the above processing and meeting the above three conditions, easypr will be included in GDTs as the basis for the accuracy of license plate recognition.
+Any data that does not meet the above three conditions, easypr will keep these data secret, secret and other characteristics, and ensure that these data are in a confidential state.
+Easypr team guarantees that these studies will only serve as relevant materials and references for open source community learning, machine learning, deep learning, image recognition and computer vision, and will not be used for any commercial or malicious acts.
+
+3、 Disclaimer
+
+The use of GDTs in easypr is only for the purpose of research and learning.
+Any use of these data for commercial or malicious spying purposes violates easypr's open source principles and research purposes. Easypr is not liable for these malicious consequences.
+Easypr condemns these actions, but easypr is not responsible for the consequences of these violations.
+When malicious users and data profiteers violate these terms of easypr agreement, it means that easypr will not be responsible for any behavior caused by them.
+When you use these data, it means that you have agreed to these conventions of easypr. You should bear the consequences of abusing easypr general test data set and malicious spying,
+Easypr, its open source team and contributors are not responsible.
+All rights reserved by easypr team.
+
+
+contact information
+
+
+Official email address of easypr development team:
+(easypr_dev@163.com)
+
+
+###When you copy these data (or part of them) of easypr's rights, you must also copy this agreement, and keep the agreement with the data at all times.

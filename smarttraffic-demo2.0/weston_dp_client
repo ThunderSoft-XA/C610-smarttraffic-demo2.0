@@ -1,0 +1,41 @@
+#!/bin/sh
+
+echo "=====Configure Weston environment====="
+mount -o remount,rw /
+killall weston
+#mkdir /usr/bin/weston_socket
+export XDG_RUNTIME_DIR=/dev/socket/weston
+#mkdir --parents XDG_RUNTIME_DIR
+chmod 0700 $XDG_RUNTIME_DIR
+cd /usr/bin
+./weston --tty=1 --device=msm_drm --idle-time=0 &
+sleep  2 
+
+echo "=====Show the Weston flower====="
+sleep  1 
+sh weston-flower &
+sleep  3 
+
+if [[ $1 = "smarttraffic-demo2.0" ]]; then
+    cd /data/camera/
+    echo "=====Show the Traffic UI====="
+    sleep  1 
+    ./smarttraffic-demo2.0 &
+    sleep  1800 
+    killall trafficUI
+elif [[ $1 = "decode" ]]; then    
+    echo "=====Show the Multi Decode====="
+    sleep  1 
+    multi-decoder 6 /data/Turbox-C610-aarch64_AI_Demo_Firmware/config.ini &
+    sleep  20 
+    killall multi-decoder
+else   
+    echo "=====Gstreamer Test====="
+    sleep  2 
+    gst-launch-1.0 -e qtiqmmfsrc name=qmmf ! video/x-h264,format=NV12,framerate=30/1,width=640,height=480 ! h264parse config-interval=1 ! queue ! qtivdec ! qtivtransform ! video/x-raw,format=BGRA ! appsink
+    sleep 20
+    killall gst-launch-1.0
+fi
+
+echo "=====Turn off  Weston display====="
+killall weston

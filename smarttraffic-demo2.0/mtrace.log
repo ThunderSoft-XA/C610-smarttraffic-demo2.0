@@ -1,0 +1,855 @@
+= Start
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee7c610 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7c660 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7c6a0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee7c6a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee7c660
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7c6c0 0x2f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7c660 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7c9c0 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ca50 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ca80 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cb10 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cb40 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cbd0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7c6a0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cc00 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cc60 0x90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cd00 0x410
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7d120 0x390
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee7cd00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cd00 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cd20 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7d4c0 0x1008
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cd80 0xb0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7e4d0 0x808
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ce40 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ced0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cf60 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cfb0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7cfe0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7d040 0x38
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7d080 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7d0b0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ece0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ed10 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ed70 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7eda0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ee00 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ee30 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ee90 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7eec0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ef20 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ef50 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7efb0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7efe0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f040 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f070 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f0c0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f0f0 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f140 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f1a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f1d0 0x148
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f320 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f370 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f3c0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f3f0 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f440 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f4a0 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f4f0 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f540 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f590 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f5c0 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f610 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f640 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f6a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f6d0 0x38
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f710 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f740 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f770 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f800 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f840 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f860 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f8a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f8c0 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f900 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f920 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f980 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7f9b0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fa10 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fa70 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fad0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fb30 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fb90 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fbe0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fc10 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fc70 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fca0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fd00 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fd60 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fd90 0x38
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fdd0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fe00 0x38
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fe40 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fe70 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fec0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7fef0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ff50 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ff80 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee7ffe0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80010 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80070 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee800a0 0x38
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee800e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80110 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80160 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80190 0x38
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee801d0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80200 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80250 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80280 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee802e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80310 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80370 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee803a0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80400 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80460 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80490 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee804f0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80520 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80580 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee805b0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80610 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80640 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee806a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee806d0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80730 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80760 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee807c0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee807f0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80850 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80880 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee808e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80910 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80970 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee809d0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80a00 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80a60 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80a90 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80af0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80b20 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80b70 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80ba0 0x148
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80cf0 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80d40 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80d70 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee80dc0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee7c6a0
+@ /lib/x86_64-linux-gnu/libc.so.6:(_IO_file_doallocate+0x8c)[0x7f171bcb826c] + 0x56400ee80df0 0x400
+@ /lib/x86_64-linux-gnu/libc.so.6:(__strdup+0x1a)[0x7f171bcd7afa] + 0x56400ee7c6a0 0xf
+@ /lib/x86_64-linux-gnu/libc.so.6:(fopen+0x1a)[0x7f171bcb8f2a] + 0x56400ee81200 0x228
+@ /lib/x86_64-linux-gnu/libc.so.6:(_IO_file_doallocate+0x8c)[0x7f171bcb826c] + 0x56400ee81430 0x1000
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bd0e96a] + 0x56400ee82440 0x156
+@ /lib/x86_64-linux-gnu/libc.so.6:(_IO_setb+0x4b)[0x7f171bcc83bb] - 0x56400ee81430
+@ /lib/x86_64-linux-gnu/libc.so.6:(fclose+0xae)[0x7f171bcb83de] - 0x56400ee81200
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bd0d2c9] + 0x56400ee81430 0x14
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bd0d286] + 0x56400ee81450 0x14
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bd0d286] + 0x56400ee81470 0x14
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81490 0x201
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee816a0 0x46
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee816f0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee817a0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81830 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81850 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee818c0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81930 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81990 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a00 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a70 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81ad0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81b30 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81bb0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81bd0 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81c60 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81c80 0x108
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81d90 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81db0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81dd0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81df0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e10 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee825a0 0x154a8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee82370 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee823d0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a50 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a90 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ab0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee97a50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee97b20 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97b80 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ba0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee97b20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee97c10 0x90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97cb0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97cd0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97d60 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97d80 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97da0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a50 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e10 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e90 0x350
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee981f0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98220 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98250 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee982b0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee982e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98310 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98340 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98370 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee983a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee983d0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98400 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98430 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98460 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98490 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97b20 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984c0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984e0 0x450
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee984c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee984c0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98940 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee989b0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee989b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a10 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee984c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee98a80 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97b20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98940
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee984e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee823d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97a90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ab0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97b80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ba0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97cb0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97c10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97d80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97d60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97cd0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97da0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97a50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984e0 0x1d8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a80 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee986c0 0xe0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee987b0 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98800 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97d60 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97cd0 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97d80 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98830 0x108
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97cb0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97b80 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a90 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984c0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98ab0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98ad0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98b00 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98c30 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98c30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98b00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99030 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99050 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee990e0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99100 0x108
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99210 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99230 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98b00 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98c30 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98c30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98b00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee984e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98800
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee986c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee981f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98220
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98250
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98310
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee983d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98490
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98340
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98400
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee982b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98370
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98430
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee982e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee983a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98460
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee987b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee82370
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee983d0 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99260 0x88
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee992f0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99310 0x108
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99420 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99440 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99460 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99480 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98310 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97da0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a50 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee994a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ba0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee97a50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee994c0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99520 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ab0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee994c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee99540 0x90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee995e0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee823d0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99600 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98940 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee99540
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee99620 0x110
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99740 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee816f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99760 0x580
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98250 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98220 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee981f0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98800 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a80 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98340 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98370 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee983a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee982b0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee982e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98400 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98430 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98460 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98490 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99cf0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99d20 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99d50 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99d80 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99db0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99de0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99e10 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99e40 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99e70 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ea0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ed0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ef0 0x450
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee99ed0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee99ed0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee816f0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a10 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee994c0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee994c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee99ed0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee9a350 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a380 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a3f0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee9a460 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee816f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ef0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97da0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee994a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ba0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99520
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ab0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee995e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee823d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99600
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98940
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99740
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99620
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81830
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee817a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81850
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee818c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81930
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81990
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81a00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81a70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81ad0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81b30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81830 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99740 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a350
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ef0 0x238
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81ad0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a380
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a3f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a460
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984e0 0x1d8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a350 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee984e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a350
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98250
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98220
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee981f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98800
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98430
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99d20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99de0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ea0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98340
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee982b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98460
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99d50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98370
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee982e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98490
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99d80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99e40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee983a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98400
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99cf0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99db0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99e70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ef0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99740
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81830
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81ad0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ ./sqliteMain:[0x56400eb030e5] - 0x56400ee816a0
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev+0x3b)[0x7f171c35a51b] - 0x56400ee81490
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81490 0x201
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee9a130 0xd7
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81830 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81830
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee816a0 0x40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a80 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ ./sqliteMain:[0x56400eb0359a] - 0x56400ee9a130
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev+0x3b)[0x7f171c35a51b] - 0x56400ee81490
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81b30 0x78
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81490 0x201
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee98940 0x68
+@ ./sqliteMain:[0x56400eb039df] - 0x56400ee98940
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee98940 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee817a0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81830 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99740 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99600 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee995e0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee99600
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee99e70 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99600 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee99e70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee9a210 0x48
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99520 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee994a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee823d0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ab0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee81ad0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a460 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee81ad0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee9a260 0x90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ba0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e10 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99760 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99db0 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ed0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee997f0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99810 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99830 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99850 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99870 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99890 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee998b0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee998d0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee998f0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81830
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee817a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee823d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ab0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a460
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ba0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a260
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee995e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99600
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99520
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee994a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a210
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99740
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ed0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ed0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee997f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99910 0x2e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99db0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e10 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a4c0 0x1c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99db0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a4c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a690 0x1e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a880 0x1008
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9b890 0x208
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a690
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99db0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9b890
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99910
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ed0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee998f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee998b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99890
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99870
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99850
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99830
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99810
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ ./sqliteMain:[0x56400eb03a45] - 0x56400ee98940
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev+0x3b)[0x7f171c35a51b] - 0x56400ee81490
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81490 0x201
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee9a210 0x46
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98940 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee817a0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee997f0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ba0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ab0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81ad0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ab0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ab0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee823d0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a70 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81930 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e10 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97da0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a50 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99740 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a10 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee97a50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee982b0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee994a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee816f0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee982b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee98400 0x90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99520 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98340 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99600 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81990 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee98400
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee9a380 0x110
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee995e0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a00 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81830 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98940
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9baa0 0x698
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99db0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98800 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee981f0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98220 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98250 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a350 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a300 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99810 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99840 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99870 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee998a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81850 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81880 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee818b0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee818e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99de0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99e10 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99e40 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99e70 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ea0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99c00 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99c30 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99c60 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99c90 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99cc0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99cf0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99d20 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99d50 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99d80 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c140 0x450
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee984a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee984a0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98940 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c5a0 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee982b0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee982b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee984a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee9c610 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c640 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98940
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c5a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c140
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97da0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99740
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee994a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee816f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99520
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98340
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99600
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81990
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee995e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81a00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81830
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a380
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee997f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee817a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ba0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81ad0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ab0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee823d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81a70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81930
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984a0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c610
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a70 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c640
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a690 0x1e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c610 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c140 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c170 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e10 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1d0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c200 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c1a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c1a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c1a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c1a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1a0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a690
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c610
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c1d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c140
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c170
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c200
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c1a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99db0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98800
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee981f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98220
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98250
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99840
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81880
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99c00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99cc0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99d80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a350
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99870
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee818b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99e40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99c30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99cf0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a300
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee998a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee818e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99e70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99c60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99d20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99810
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81850
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99de0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ea0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99c90
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99d50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee984a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9baa0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81a70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e10
+@ ./sqliteMain:[0x56400eb03f05] - 0x56400ee9a210
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev+0x3b)[0x7f171c35a51b] - 0x56400ee81490
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81490 0x201
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81a70 0x49
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee817a0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81ad0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81760 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ed0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81990 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98340 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee982b0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee816f0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee994c0 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee82370 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97b20 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9baa0 0x450
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81910 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee81910
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee81910 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee81910
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee81910 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a10 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a50 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9baa0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a330 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee984a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee817a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81ad0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ed0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81760
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81990
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98340
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee982b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee816f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee994c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee82370
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97b20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ed0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81910
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99c00 0x2a8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97b20 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97a50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a690 0x1e0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a690
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99c00
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee99ed0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a330
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81f70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97b20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81e40
+@ ./sqliteMain:[0x56400eb03cff] - 0x56400ee81a70
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev+0x3b)[0x7f171c35a51b] - 0x56400ee81490
+@ ./sqliteMain:[0x56400eb04056] + 0x56400ee9a330 0x18
+@ ./sqliteMain:[0x56400eb04091] + 0x56400ee99ed0 0x18
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee81490 0x201
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee98280 0x1f
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_Znwm+0x18)[0x7f171c2d6298] + 0x56400ee9c1a0 0x1f
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c200 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98a10 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97a50 0x30
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee984a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee816f0 0x60
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee97a50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee823d0 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee998f0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee817a0 0x80
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a4a0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97e10 0x70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81e40 0x128
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81f70 0x3f8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee99ef0 0x238
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c170 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c140 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c1d0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c610 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81910 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a300 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98800 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a350 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee995e0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee97ab0 0x28
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee983b0 0x10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9baa0 0x450
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee983b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee983b0 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98340 0x68
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a70 0x58
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee81a70
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] < 0x56400ee983b0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c6191e9] > 0x56400ee97ae0 0x20
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98340
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9baa0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee984a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee816f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee998f0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee823d0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a4a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee817a0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97e10
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee97ae0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9c200
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9c200 0x28
+@ ./sqliteMain:[0x56400eb0415d] - 0x56400ee9c1a0
+@ ./sqliteMain:[0x56400eb0416c] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee9a4c0 0x1c8
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee98280 0x28
+@ ./sqliteMain:[0x56400eb042af] + 0x56400ee9a4a0 0x18
+@ ./sqliteMain:[0x56400eb042af] + 0x56400ee998f0 0x18
+@ ./sqliteMain:[0x56400eb042af] + 0x56400ee984a0 0x18
+@ ./sqliteMain:[0x56400eb042af] + 0x56400ee983b0 0x18
+@ ./sqliteMain:[0x56400eb042af] + 0x56400ee99520 0x18
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee9a4c0
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98280
+@ /usr/lib/x86_64-linux-gnu/libstdc++.so.6:(_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev+0x3b)[0x7f171c35a51b] - 0x56400ee81490
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:[0x7f171c619234] + 0x56400ee81a70 0x50
+@ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0:(sqlite3_free+0x53)[0x7f171c5e75c3] - 0x56400ee98a80
+@ ./sqliteMain:[0x56400eb04593] - 0x56400ee7c610
+@ ./sqliteMain:[0x56400eb045b1] - 0x56400ee81b30
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd458d] - 0x56400ee7be70
+@ /lib/x86_64-linux-gnu/libc.so.6:(tdestroy+0x2e)[0x7f171bd57bae] - 0x56400ee7c190
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd4578] - 0x56400ee7c1b0
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd4664] - 0x56400ee80df0
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd476f] - 0x56400ee81430
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd476f] - 0x56400ee81450
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd476f] - 0x56400ee81470
+@ /lib/x86_64-linux-gnu/libc.so.6:[0x7f171bdd4783] - 0x56400ee7c6a0
+@ /lib/x86_64-linux-gnu/libc.so.6:(__libc_freeres+0x94)[0x7f171bdd4734] - 0x56400ee82440

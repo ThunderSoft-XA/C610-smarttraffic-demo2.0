@@ -1,0 +1,18 @@
+1.general_test： The folder where the general data test set (GDTs) is stored. Easypr developers will judge the improvement of the new easypr algorithm according to the pictures here. 
+ Other developers can also use this test set to test the performance of their modified program on the general picture set. 
+ Generally speaking, the performance of this dataset is lower than that of native_test. 
+ You can start easypr -> 2. Batch_test -> 1. General_test to test the performance of easypr on general data set. 
+
+2.native_test：
+
+A place where user specific image data sets are stored. Put the pictures of your specific environment here for testing, separate them from GDTs.
+Since you want easypr to perform well only in your dataset, you can just put your data in native_ Test folder, and then run the test.
+You can try to change the image processing algorithm, or you can train your dataset through the easypr training function, and then use the trained model to replace easypr
+This model is more adaptable to your data than easypr's original model.
+
+You can start easypr -> 2. Batch_test -> 2. Native_test to test your performance. 
+
+3.tmp folder: store the middle picture of easypr processing process for debugging.
+
+
+Note: the data in GDTs follows gdsl protocol. Please read the“ GDSL.txt "For more information.

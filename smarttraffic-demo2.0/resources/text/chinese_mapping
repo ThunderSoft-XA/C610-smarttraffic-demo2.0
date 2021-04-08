@@ -1,0 +1,20 @@
+make_a_choice    Please select an operation 
+input_error      Input error, please input again 
+
+original_image   picture
+empty_plate      No license plate 
+diff             disparity
+char             character
+error_code       Error code 
+summaries        Statistical parameters 
+sum_pictures     Total pictures 
+unrecognized     License plate not located 
+locate_rate      Detection rate 
+diff_average     Average character gap 
+full_match       Perfect match number 
+full_rate        Perfect match rate 
+seconds          Total time 
+seconds_average  Average execution time 
+sec              second
+detect_quality   location
+char_recongize   character

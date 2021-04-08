@@ -1,0 +1,12 @@
+////////////////////////////////////
+EasyPR Test:
+1. test plate_locate(License plate location);
+2. test plate_judge(License plate judgment);
+3. test plate_detect(License plate detection);
+4. test chars_segment(Character separation);
+5. test chars_identify(Character identification);
+6. test chars_recognise(character recognition);
+7. test plate_recognize(License plate recognition);
+8. test all(Test all);
+9. return;
+////////////////////////////////////
