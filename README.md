@@ -40,6 +40,34 @@ using a LED Displayer to display the smarttraffic-demo2.0 interface from Qualcom
 
 ![LED-Displayer](./res/LED-Displayer.png)
 
+
+## Environment configuration
+
+### Qualcomm Neural processing SDK for AI
+
+1. Download the Neural Processing SDK from here:
+   [https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk)
+2. Git clone this project link [https://github.com/ThunderSoft-XA/C610-smarttraffic-demo2.0/](https://github.com/ThunderSoft-XA/C610-smarttraffic-demo2.0/)
+3. Move the Neural Processing SDK contents to <C610-smarttraffic-demo2.0/snpe/include/zdl>
+
+### GTK-3.0+
+
+The demo`s UI interface based on GTK with dependence library.For example,cario,glib,pango,etc.So,you need install it in progress of host development if you want to program it again,as follow:
+
+```
+1. install gcc/g++/gdb/make etc basic compile tools :
+     sudo apt-get install build-essential
+2. install GTK+3.0：
+     sudo apt-get install libgtk-3-dev
+3. install pkg-config：
+     sudo apt-get install pkg-config
+4. install help files：
+     sudo apt-get install devhelp
+5. check version of pkg-config/gtk+:
+     pkg-config -–version 
+     pkg-config -–modversion gtk+-3.0
+```
+
 ## Compile
 
 The compilation of the whole project is based on the yocto compilation tool, so you need to write some .bb and .conf files according to the specification. The traffic_0.1.bb example is as follows:
