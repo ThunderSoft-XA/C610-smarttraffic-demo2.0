@@ -40,7 +40,6 @@ using a LED Displayer to display the smarttraffic-demo2.0 interface from Qualcom
 
 ![LED-Displayer](./res/LED-Displayer.png)
 
-
 ## Environment configuration
 
 ### Qualcomm Neural processing SDK for AI
@@ -70,53 +69,7 @@ The demo`s UI interface based on GTK with dependence library.For example,cario,g
 
 ## Compile
 
-The compilation of the whole project is based on the yocto compilation tool, so you need to write some .bb and .conf files according to the specification. The traffic_0.1.bb example is as follows:
-
-```
-inherit cmake
-
-DESCRIPTION = "smart traffic-demo 2.0"
-LICENSE = "BSD"
-SECTION = "smarttraffic-demo2.0"
-LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/${LICENSE};md5=3775480a712fc46a69647678acb234cb"
-
-# Dependencies.
-DEPENDS := "opencv gtk+3 sqlite3 glib-2.0 dbus-glib glib-2.0-native"
-DEPENDS += "zlib fontconfig cairo gst-plugins-base gconf libpng pango"
-DEPENDS += "gstreamer1.0"
-DEPENDS += "gstreamer1.0-plugins-base"
-DEPENDS += "gstreamer1.0-plugins-qti-oss-mlmeta"
-DEPENDS += "gstreamer1.0-plugins-qti-oss-tools"
-DEPENDS += "gstreamer1.0-rtsp-server"
-
-EXTRA_OECONF += " --with-glib"
-CPPFLAGS += " -I${STAGING_INCDIR}/glib-2.0"
-CPPFLAGS += " -I${STAGING_LIBDIR}/glib-2.0/include"
-CPPFLAGS += "-include glib.h"
-CPPFLAGS += "-include glibconfig.h"
-LDFLAGS += " -lglib-2.0"
-
-
-FILESPATH =+ "${WORKSPACE}/video_ai/camera/bin/:"
-
-SRC_URI = "file://camera/"
-INSANE_SKIP_${PN}-dev += "ldflags dev-elf dev-deps"
-PACKAGES = "${PN}-dbg ${PN} ${PN}-dev"
-S = "/home/turbox/wuqx0806/cs-610/apps_proc/src/video_ai/camera/"
-
-# Install directries.
-INSTALL_INCDIR := "${includedir}"
-INSTALL_BINDIR := "${bindir}"
-INSTALL_LIBDIR := "${libdir}"
-
-EXTRA_OECMAKE += ""
-
-FILES_${PN} += "${INSTALL_BINDIR}"
-FILES_${PN} += "${INSTALL_LIBDIR}"
-
-SOLIBS = ".so*"
-FILES_SOLIBSDEV = ""
-```
+The compilation of the whole project is based on the yocto compilation tool, so you need to write some .bb and .conf files according to the specification. The link is [traffic_0.1.bb](https://github.com/ThunderSoft-XA/C610-smarttraffic-demo2.0/blob/master/smarttraffic-demo2.0/traffic_0.1.bb) example.
 
 Please refer to [the official Manual of Yocto](https://www.yoctoproject.org) for how to add layers,write layer.conf .Then,excute the command as follows:
 
@@ -169,54 +122,10 @@ run smarttraffic-demo2.0：
 
 Run the **smarttraffic-demo2.0** app.the demo video will play on the DP screen.
 
+[weston_dp_client script](https://github.com/ThunderSoft-XA/C610-smarttraffic-demo2.0/blob/master/smarttraffic-demo2.0/weston_dp_client)
+
 ```
+
 $ cd /data/<source root dir>
 $ ./weston_dp_client smarttraffic-demo2.0
-```
-
-**weston_dp_client :**
-
-```
-
-
-#!/bin/sh
-
-echo "=====Configure Weston environment====="
-mount -o remount,rw /
-killall weston
-#mkdir /usr/bin/weston_socket
-export XDG_RUNTIME_DIR=/dev/socket/weston
-#mkdir --parents XDG_RUNTIME_DIR
-chmod 0700 $XDG_RUNTIME_DIR
-cd /usr/bin
-./weston --tty=1 --device=msm_drm --idle-time=0 &
-sleep  2 
-
-echo "=====Show the Weston flower====="
-sleep  1 
-sh weston-flower &
-sleep  3 
-
-if [[ $1 = "smarttraffic-demo2.0" ]]; then
-    cd /data/camera/
-    echo "=====Show the smart traffic demo 2.0====="
-    sleep  1 
-    ./smarttraffic-demo2.0 &
-    sleep  1800 
-    killall smarttraffic-demo2.0
-elif [[ $1 = "decode" ]]; then  
-    echo "=====Show the Multi Decode====="
-    sleep  1 
-    multi-decoder 6 /data/Turbox-C610-aarch64_AI_Demo_Firmware/config.ini &
-    sleep  20 
-    killall multi-decoder
-else   
-    echo "=====Missing parameter====="
-    sleep  2 
-
-fi
-
-echo "=====Turn off  Weston display====="
-killall weston
-
 ```
